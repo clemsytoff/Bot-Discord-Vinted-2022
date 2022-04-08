@@ -2,7 +2,7 @@
   "name": "vinted-discord-bot",
   "version": "3.17.0",
   "main": "dist/index.js",
-  "author": "Androz2091 <androz2091@gmail.com>",
+  "author": "clemsytoff",
   "license": "MIT",
   "scripts": {
     "start": "node create-db.js && node create-cmds && node dist/index.js",
