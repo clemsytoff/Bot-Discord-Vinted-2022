@@ -171,7 +171,7 @@ client.on('ready', () => {
     sync();
     setInterval(sync, 60000);
 
-    client.user.setActivity(`https://dsc.gg/vinthost`);
+    client.user.setActivity(`Bot by : https://github.com/clemsytoff/vinted-discord-bot-2022/`);
 });
 
 client.on('interactionCreate', (interaction) => {
