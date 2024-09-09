@@ -1,0 +1,5 @@
+{
+    "token": "METTEZ VOTRE TOKEN ICI",
+    "adminIDs": ["METTEZ LES ID DES ADMINS DU BOT ICI"],
+    "guildID": "METTEZ L'ID DU DISCORD ICI"
+}
