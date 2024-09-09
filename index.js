@@ -171,7 +171,7 @@ client.on('ready', () => {
     sync();
     setInterval(sync, 60000);
 
-    client.user.setActivity(`Bot by : https://github.com/clemsytoff/vinted-discord-bot-2022/`);
+    client.user.setActivity(`Bot by : https://github.com/clemsytoff/Bot-Discord-Vinted-2022`);
 });
 
 client.on('interactionCreate', (interaction) => {
